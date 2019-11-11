@@ -1,0 +1,5 @@
+Ger, 25
+Beans, 3
+Pot Noodles, 1
+Bread, 1
+Grapes, 4

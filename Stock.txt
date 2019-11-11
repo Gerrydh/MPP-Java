@@ -1,0 +1,5 @@
+256.93
+Beans, 1.10, 100
+Pot Noodles, 1.99, 250
+Bread, 1.50, 66
+Grapes, 2.99, 25
